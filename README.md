@@ -37,6 +37,7 @@ By completing this repository, you will be able to:
 
 ## 🗂 Repository Structure
 
+```text
 azure-cloud-basics-to-advanced/
 ├── 01-Subscription-and-Resource-Groups/
 ├── 02-Identity-and-RBAC/
@@ -87,6 +88,7 @@ azure-cloud-basics-to-advanced/
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/azure-cloud-basics-to-advanced.git
+   ```
 Follow modules in order
 
 Complete hands-on labs using an Azure Free Account
