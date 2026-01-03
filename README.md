@@ -1,6 +1,6 @@
 # Azure Cloud Basics to Advanced ☁️
 
-A comprehensive, step-by-step, hands-on learning repository designed to help you become a **job-ready Azure Cloud Engineer**.
+A comprehensive, step-by-step, hands-on learning repository designed to help you become a ** Azure Cloud Engineer**.
 
 This repository takes you from **Azure fundamentals** to **advanced core services** using practical labs, real-world scenarios, and best practices.
 
